@@ -1,0 +1,142 @@
+﻿  Arac.cpp
+  AracPaneli.cpp
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\AracPaneli.cpp(52,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bubble.cpp
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(42,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(43,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(125,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(126,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(129,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(130,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(132,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(132,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(138,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(139,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(142,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(143,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(145,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Bubble.cpp(145,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Buton.cpp
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Buton.cpp(62,21): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Buton.cpp(63,20): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Dortgen.cpp
+  Line.cpp
+  main.cpp
+  Oyun.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(32,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(32,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(33,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(33,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(78,118): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(78,99): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(78,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(85,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(257,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(261,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(297,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(324,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(326,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(337,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(400,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(512,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Oyun.cpp(514,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pencere.cpp
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Pencere.cpp(92,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\BubbleShooter2\Pencere.cpp(92,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Yazi.cpp
+  Generating Code...
+  BubbleShooter.vcxproj -> C:\Users\Mert_\Desktop\Oyun Programlama\bin\BubbleShooter.exe
